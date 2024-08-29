@@ -1,4 +1,4 @@
-from praktikum.bun import Bun
+from src.bun import Bun
 
 
 class TestBun:
